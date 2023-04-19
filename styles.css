@@ -1,0 +1,12 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
+ body {
+     font-family: 'Source Sans Pro', sans-serif;
+     background-color: #f3f7fa;
+ }
+
+ /* .btn-primary {
+    color: #212529;
+    background-color: rgb(199,124,76);
+    border-color: rgb(199,124,76)
+} */
